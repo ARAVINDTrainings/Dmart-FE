@@ -1,2 +1,2 @@
 This is welcome page
-printf "Hello"
+printf "Hello customers"
